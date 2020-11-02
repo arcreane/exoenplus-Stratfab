@@ -1,2 +1,9 @@
-package com.company;public class Exercice2 {
+package com.company;
+
+public class Exercice2 {
+
+    public static void palindrome(){
+
+
+    }
 }
